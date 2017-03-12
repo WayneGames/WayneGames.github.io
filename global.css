@@ -1,0 +1,20 @@
+body{
+	background-color:2020FF;
+	text-align:center;
+}
+
+h1{
+	font-size:40px;
+	font-family:Arial;
+	font-style:bold;
+}
+
+h2{
+	font-size:20px;
+	font-family:Arial;
+}
+
+button{
+	width:150px;
+	height:40px;
+}
