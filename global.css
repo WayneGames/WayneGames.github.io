@@ -23,6 +23,6 @@ p{
 	text-align:left;	
 }
 
-canvas{
+barcodeCanvas{
 	border:1px solid black;
 }
