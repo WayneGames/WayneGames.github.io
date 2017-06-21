@@ -23,10 +23,10 @@ p{
 	text-align:left;	
 }
 
-barcodeCanvas{
+#barcodeCanvas{
 	border:1px solid black;
 }
 
-keytapCanvas{
+#keytapCanvas{
 	border:1px solid black;	
 }
